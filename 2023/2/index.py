@@ -1,7 +1,8 @@
 
 input = open("2023/2/input.txt", "r")
 
-# 12 red cubes, 13 green cubes, and 14 blue cubes
+# Find the sum of all games that satisfy the given limits:
+# A game has at most 12 red cubes, 13 green cubes, and 14 blue cubes
 # What is the sum of the IDs of those games?
 
 limits = {
